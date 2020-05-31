@@ -405,8 +405,8 @@ footer{
     text-align: center;
     font-size: 100px;
     position: absolute;
-    right: 400px;
-    bottom: -90px;
+    right: 354px;
+    bottom: -81px;
 }
 .car-position-bottom {
     z-index: 0;
@@ -414,14 +414,14 @@ footer{
     text-align: center;
     font-size: 100px;
     position: absolute;
-    right: 443px;
+    right: 396px;
     bottom: -660px;
 }
 
 .car-image {
     z-index: 1000;
     position: absolute;
-    right: 50px;
+    right: -10px;
 }
 .price-style {
   text-align: center;
